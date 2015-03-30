@@ -1,0 +1,73 @@
+-------------------------(TRAIN)------------------------
+________350 x 350 (train)
+SVM:   здесь использовалась просто term frequncy.
+numdocs_wrong = 37
+fraction_wrong = 14.23 %
+
+Nayve Bayes:
+numdocs_wrong = 6
+fraction_wrong = 2.31 %
+
+=================================
+_______175 x 175 (train)
+
+Nayve Bayes:
+numdocs_wrong = 7
+fraction_wrong = 2.69 %
+
+SVM:
+numdocs_wrong = 35
+fraction_wrong = 13.46 %
+
+==================================
+_______70 x 70 (train)
+
+Nayve Bayes:
+numdocs_wrong = 7
+fraction_wrong = 2.69 %
+
+SVM:
+numdocs_wrong = 12
+fraction_wrong = 4.62 %
+
+===================================
+_______35 x 35 (train)
+Nayve Bayes:
+numdocs_wrong = 8
+fraction_wrong = 3.08 %
+
+SVM:
+numdocs_wrong = 36
+fraction_wrong = 13.85 %
+
+---------------------------(TEST)----------------------------------
+
+________130 x 130 (test)
+SVM:
+numdocs_wrong = 37
+fraction_wrong = 14.23 %
+
+Nayve Bayes:
+numdocs_wrong = 6
+fraction_wrong = 2.31 %
+
+=====================================
+________65 x 65 (test)
+SVM:  
+numdocs_wrong = 30
+fraction_wrong = 23.08 %
+
+Nayve Bayes:
+numdocs_wrong = 5
+fraction_wrong = 3.85 %
+
+
+=====================================
+________26 x 26 (test)
+SVM:   
+numdocs_wrong = 10
+fraction_wrong = 19.23 %
+
+Nayve Bayes:
+numdocs_wrong = 1
+fraction_wrong = 1.92 %
